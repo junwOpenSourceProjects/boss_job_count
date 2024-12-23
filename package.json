@@ -23,7 +23,7 @@
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.4.4",
     "@nestjs/mapped-types": "*",
-    "@nestjs/platform-express": "^10.4.3",
+    "@nestjs/platform-express": "^10.4.13",
     "@nestjs/typeorm": "^10.0.2",
     "mysql2": "^3.11.3",
     "puppeteer": "^22.15.0",
